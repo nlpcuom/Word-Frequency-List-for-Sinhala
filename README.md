@@ -2,12 +2,12 @@
 ```text
 The descriptions of the files available as follows. 
 
-1.Word Frequency List - word_frequency_list_2M.si\
-  Total number of unique words : 2,138,021\
+1.Word Frequency List - word_frequency_list_2M.si
+  Total number of unique words : 2,138,021
   Total number of words : 122,998,105
 
-2.Verified Word List  - verified_word_list_200K.si \
-  correct words without freq.si\
+2.Verified Word List  - verified_word_list_200K.si
+  correct words without freq.si
   Total Unique words : 280,603
 
 3.Verified Word List with Morphological Analysis - verified_word_list_morph_analysed.txt
