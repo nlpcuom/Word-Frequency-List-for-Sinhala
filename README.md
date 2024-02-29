@@ -1,5 +1,5 @@
 ## A Word Frequency List for Sinhala
-
+```python
 The descriptions of the files available as follows. 
 
 1.Word Frequency List - word_frequency_list_2M.si\
@@ -13,7 +13,7 @@ The descriptions of the files available as follows.
 3.Verified Word List with Morphological Analysis - verified_word_list_morph_analysed.txt
 
 4.Verified Word List with Lemma Analysis - verified_word_list_lemma_analysis.txt
-
+```
 
 ## Citation
 
