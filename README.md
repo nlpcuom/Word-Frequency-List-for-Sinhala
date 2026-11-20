@@ -33,7 +33,7 @@ The descriptions of the files available as follows.
 ```
 
 # License
-
+```text
 Copyright (c) 2021 NLP Centre, University of Moratuwa
 
 The Word Frequency List for Sinhala, including the word frequency list, the verified word list
