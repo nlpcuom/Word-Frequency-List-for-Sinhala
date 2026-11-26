@@ -38,5 +38,5 @@ Copyright (c) National Languages Processing Centre, University of Moratuwa
 
 The Word Frequency List for Sinhala, including the word frequency list, the verified word list
 and the lemma data, is licensed under the
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
 ```
